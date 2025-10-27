@@ -1,0 +1,58 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.log
+
+# --- Virtual environments ---
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# --- IDEs and Editors ---
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
+
+# --- Distribution / Packaging ---
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+*.egg-info/
+.installed.cfg
+
+# --- Testing / Coverage ---
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+.pytest_cache/
+nosetests.xml
+
+# --- Jupyter / IPython ---
+.ipynb_checkpoints
+
+# --- Local Config Files ---
+*.env
+.env.*
+*.ini
+*.cfg
+*.sqlite3
+
+# --- Misc ---
+*.bak
+*.tmp
