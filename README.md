@@ -1,7 +1,7 @@
-# Jarvis Desktop Voice Assistant
+# Desktop Voice Assistant
 
 
-## 📌Features
+## Features
 
 It can do a lot of cool things, some of them being:
 
@@ -20,7 +20,7 @@ It can do a lot of cool things, some of them being:
 
 Python 3.6+
 
-## 📌Installation
+## Installation
 
 1. **Fork The Repository**
    - Click the "Fork" button on the top right corner of the repository page.
