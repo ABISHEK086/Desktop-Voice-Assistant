@@ -2,7 +2,7 @@ import pyttsx3
 import datetime                                 
 import speech_recognition as sr
 import wikipedia   
-import webbrowser as wb 
+import webbrowser as wb  
 import os
 import random
 import pyautogui
