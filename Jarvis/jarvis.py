@@ -6,7 +6,7 @@ import webbrowser as wb
 import os          
 import random              
 import pyautogui              
-import pyjokes     
+import pyjokes      
       
 engine = pyttsx3.init()   
 voices = engine.getProperty('voices')   
