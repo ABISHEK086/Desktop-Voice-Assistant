@@ -5,7 +5,7 @@ import wikipedia
 import webbrowser as wb   
 import os         
 import random             
-import pyautogui            
+import pyautogui             
 import pyjokes     
       
 engine = pyttsx3.init()   
